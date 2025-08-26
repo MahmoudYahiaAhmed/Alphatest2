@@ -8,5 +8,11 @@ Project to test all github features
 
 # second feature added from mahmoud
 
+<<<<<<< HEAD
 # newww feauture
 feature
+=======
+feature
+
+feature
+>>>>>>> bcd22b090e0468d2afabd1340874e2b0e1b23865
