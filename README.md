@@ -6,4 +6,3 @@ Project to test all github features
 
 # first feature added
 
-# comment by salma
