@@ -8,4 +8,9 @@ Project to test all github features
 
 # second feature added from mahmoud
 
+<<<<<<< HEAD
 # comment by sama
+=======
+feature
+>>>>>>> d60d40e627f91f1156b823a692f97434d5cf5e9e
+smsmssmsmmsmmmmmmhhhhjjjjj
